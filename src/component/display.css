@@ -1,0 +1,18 @@
+.cart{
+    width: 17vw;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    text-align: center;
+    padding: 3%;
+    border-radius: 5%;
+    box-sizing: border-box;
+}
+
+.cart-course{
+    width: 23vw;
+    height: auto;
+    background-color: rgb(235, 232, 232);
+    padding: 3%;
+    border-radius: 5%;
+}

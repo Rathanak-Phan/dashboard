@@ -1,0 +1,39 @@
+aside {
+    display: flex;
+    flex-direction: column;  
+    height: 90vh;  
+    width: 20vw;
+    align-items: first baseline;
+    justify-content: space-between; 
+    padding: 3%;        
+}
+
+.custom-font-size {
+    font-size: 30px;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.my-overline {
+    line-height: 2.5;
+    font-weight: 600;
+    text-decoration: overline;
+    text-decoration-thickness: 3px;
+    text-decoration-color: black;
+}
+
+.profile-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+  
+.profile-image {
+    width: 50px;  /* Adjust the size of the profile image */
+    height: 50px; /* Adjust the size of the profile image */
+    border-radius: 50%;  /* Makes the image circular */
+    margin-bottom: 10px;
+}
+  
